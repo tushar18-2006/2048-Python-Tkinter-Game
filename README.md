@@ -8,15 +8,7 @@ The game allows players to combine numbered tiles by moving them in four directi
 
 ## 📸 Screenshot
 
-<p align="center">
-  <img src="images/game.png" alt="2048 Game Screenshot" width="500"/>
-</p>
-
-> Save your uploaded game screenshot as:
->
-> ```
-> images/game.png
-> ```
+![image alt](https://github.com/tushar18-2006/2048-Python-Tkinter-Game/blob/80d2695e8e8dcc24bdc2d0b0c944d80b68986758/2048-Game.png)
 
 ---
 
